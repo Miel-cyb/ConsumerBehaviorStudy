@@ -1,10 +1,15 @@
 # 🛒 Consumer Behavior and Online Shopping Preference Analysis
 
-This project explores **consumer decision behavior** — specifically how **external factors** such as discounts, trends, and availability affect people's shopping choices, and how these choices relate to **Human–Computer Interaction (HCI)** and user trust in e-commerce systems. Main goal is to ensure effective decision making particularly for FMCG distribution companies to understand features that may affect purchasing behavior and how to manage stock movement based on both historic sales data and human factors.
----
+This project investigates consumer decision behavior, focusing on how external factors such as discounts, trends, and product availability shape purchasing choices. It further explores how these behavioral patterns relate to Human–Computer Interaction (HCI), particularly in the context of user trust and engagement with e-commerce systems.
+
+The primary objective is to enhance data-driven decision-making for Fast-Moving Consumer Goods (FMCG) distribution companies by identifying key features that influence consumer behavior. Understanding these factors can support better management of stock movements, informed marketing strategies, and efficient sales forecasting based on both historical data and human factors.
+
+Additionally, the study examines user interaction with online shopping platforms, analyzing how design, accessibility, and perceived trust impact purchase intent—offering insights valuable to online-based retailers
+
 
 # Problem Statement
-In modern organizations, decisions increasingly rely on insights derived from data visualization and predictive modeling. However, when analysts fail to select the appropriate features or define the correct target variables, visualizations can become misleading, and models may produce unreliable outcomes. This misalignment between chosen variables and actual decision objectives can result in flawed conclusions, ultimately affecting strategic and operational decision-making. This is an extended study of understanding overstocking and understocking, the initial project evaluated historical sales but the question is: What if consumer behavior does not follow past trends? Prediction can falter when expected results deviate from outcome.
+In modern organizations, decisions increasingly rely on insights derived from data visualization and predictive modeling. However, when analysts fail to select the appropriate features or define the correct target variables, visualizations can become misleading, and models may produce unreliable outcomes. This misalignment between chosen variables and actual decision objectives can result in flawed conclusions, ultimately affecting strategic and operational decision-making. This is an extended study of understanding overstocking and understocking, the initial project evaluated historical sales but the question is: What if consumer behavior does not follow past trends? Prediction can falter when expected results deviate from outcome. 
+
 
 ## 📊 Project Overview
 
