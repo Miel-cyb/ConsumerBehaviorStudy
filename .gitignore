@@ -1,0 +1,29 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.so
+*.egg-info/
+*.log
+*.sqlite3
+
+# ---- Environments ----
+venv/
+.env/
+.DS_Store
+.idea/
+.vscode/
+
+# ---- Data ----
+data/
+*.csv
+*.xlsx
+*.pkl
+*.h5
+
+
+# ---- OS Files ----
+Thumbs.db
+desktop.ini

@@ -1,0 +1,18 @@
+# Core libraries
+pandas
+numpy
+openpyxl
+
+# Data visualization
+matplotlib
+seaborn
+
+# Machine learning
+scikit-learn
+
+# Statistical analysis
+scipy
+statsmodels
+
+#  output formatting
+tabulate

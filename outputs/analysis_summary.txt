@@ -1,0 +1,23 @@
+
+### Behavioral Insights and HCI Interpretation
+
+1. **Consumer Behavior Trends:**
+   Most respondents' purchasing decisions are influenced by factors like discounts, product availability, and social influence. 
+   These external factors (such as trends and economic changes) correlate strongly with consumer willingness to buy, aligning with the 
+   idea that sudden external stimuli shape online purchase decisions.
+
+2. **Online vs. Offline Shopping:**
+   Logistic regression analysis indicates that online shopping preference is modestly predicted by factors tied to digital trust, 
+   product consistency, and exposure to online promotions. However, many respondents still favor physical shopping — suggesting that 
+   usability issues, trust, and sensory experience remain barriers.
+
+3. **Relation to Human–Computer Interaction (HCI):**
+   - **Usability & Trust:** Some consumers may find online interfaces unintuitive or insecure, reducing adoption.
+   - **Cognitive Load:** Too many steps, unclear navigation, or poor feedback loops discourage repeat online purchases.
+   - **Experience Gap:** Lack of tactile or social interaction (core elements of user experience) reduces satisfaction.
+   - **Design Implication:** To promote online shopping adoption, e-commerce interfaces must emphasize clarity, accessibility, 
+     responsive design, and personalization.
+
+4. **Conclusion:**
+   The experiment supports that while discounts and convenience push consumers toward online channels, the HCI quality of 
+   e-commerce platforms directly affects long-term user trust and preference.
